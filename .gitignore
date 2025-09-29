@@ -72,7 +72,17 @@ mono_crash.*
 *.unitypackage
 *.unitypackage.meta
 *.app
+
+# Ignore large graphics
 *.meta
+*.png
+*.jpg
+*.psd
+*.fbx
+*.mp4
+*.wav
+
+
 
 # Crashlytics generated file
 crashlytics-build.properties
