@@ -1,0 +1,1 @@
+I changed the color for the floor, background and added a scoring point (a small square and a star)
